@@ -1,0 +1,39 @@
+.col_2_sec_1 {
+    background-color: var(--bs-gray);
+}
+
+.col_1_sec_2 {
+    background-color: rgb(54, 54, 238);
+}
+
+.col_2_sec_2 {
+    background-color: green;
+}
+
+.col_3_sec_2 {
+    background-color: rgb(235, 72, 72);
+}
+
+.col_1_sec_3 {
+    background-color: rgb(72, 162, 235);
+}
+
+.col_2_sec_3 {
+    background-color: orange;
+}
+
+.col_3_sec_3 {
+    background-color: violet;
+}
+
+.col_4_sec_3, .col_1_sec_1 {
+    background-color: rgb(238, 238, 238);
+}
+
+.col_4_sec_3, .col_1_sec_1, .intro {
+    color: black;
+}
+
+.row {
+    color: white;
+}
